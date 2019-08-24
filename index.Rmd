@@ -1,8 +1,3 @@
 ---
-title: "Blog Test"
-author: "Josh Meyers"
-date: "8/23/2019"
-output: html_document
+site: blogdown:::blogdown_site
 ---
-
-This is my landing page
