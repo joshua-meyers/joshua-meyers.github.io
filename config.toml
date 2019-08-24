@@ -1,4 +1,5 @@
-baseurl = "/"
+baseURL = "https://joshua-meyers.github.io/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "A Hugo website"
 theme = "hugo-lithium"
