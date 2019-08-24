@@ -2,7 +2,15 @@
 title: "Untitled"
 author: "Josh Meyers"
 date: "8/23/2019"
-output: html_document
+output:
+  html_document:
+    css: style.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    theme: readable 
+    includes:
+      before_body: header.html
 ---
 
 ```{r setup, include=FALSE}
